@@ -1,4 +1,4 @@
-# AB-Testing-using-R-for-retargeting-Churn
+# AB-Testing-using-R-for-Marketing-Analysis
 Project to determine retargeting of churned customers and plans to pursue them using AB testing Approach in R
 
 I. The Business Problem
