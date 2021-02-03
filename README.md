@@ -1,7 +1,7 @@
 # AB-Testing-using-R-for-Marketing-Analysis
 Project to determine retargeting of churned customers and plans to pursue them using AB testing Approach in R
 
-I. The Business Problem
+# I. The Business Problem
 
 Abandoned dataset is the data for all the customers in the dataset that were already pursued (advertised) but ended up not buying a vacation package.
 
